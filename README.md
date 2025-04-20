@@ -12,7 +12,10 @@ Ademas se incluye las siguientes validaciones:
 - Validar por cedula que el profesor o estudiante no exista cuando se crea usuarios 
 - No permite crear libros repetidos con el mismo isbn
 - Validar deacuerdo al usuario que no sobrepase el máximo de libros permitidos
-- 
-  
 
+  Se incluye algunos usuarios y libros iniciales en al iniciar el sistema.
+  
+### VIDEO PRUEBA SISTEMA
+
+https://github.com/user-attachments/assets/e86b01ae-d9a0-4fe8-848e-6c2d6df5d142
 
